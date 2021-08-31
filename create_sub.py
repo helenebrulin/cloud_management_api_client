@@ -13,7 +13,7 @@ data = {
     "paymentMethodId": 9605,
     "cloudProviders": [
       {
-        "cloudAccountId": 1,
+        "cloudAccountId": ,
         "regions": [
           {
             "region": "us-east-1",

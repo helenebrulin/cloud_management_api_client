@@ -17,3 +17,4 @@ python3 tests.py
 
 ## Notes:
 - troubleshoot certificate error : https://stackoverflow.com/questions/50236117/scraping-ssl-certificate-verify-failed-error-for-http-en-wikipedia-org 
+- DO NOT USE ACCOUNT ID 1 !!!!
